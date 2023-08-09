@@ -1,1 +1,1 @@
-https://marcinrekiel.github.io/goit-markup-lson15-hw-02/
+https://marcinrekiel.github.io/goit-markup-fson15-hw-02/
