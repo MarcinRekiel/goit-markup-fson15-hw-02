@@ -120,3 +120,29 @@ button:hover {
   text-align: center;
 }
 /* -----------------------------PORTFOLIO-CONTENT------------------------------- */
+.pf-filter button {
+  color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  text-align: center;
+  background-color: #f4f4fd;
+}
+.pf-filter button:hover,
+.pf-filter button:focus {
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.pf-photo h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.pf-filter p {
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
